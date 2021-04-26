@@ -2,7 +2,7 @@
 ---
   🏫 School : SooChow University
   
-  💡 subject: Big Data
+  💡 subject: Data Science
   
   📨 Email:xlkslbccdtls123@gmail.com
   
